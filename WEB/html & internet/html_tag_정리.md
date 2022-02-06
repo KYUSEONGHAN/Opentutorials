@@ -22,7 +22,8 @@
 15. `<!doctype html>`: 해당 선언은 html 문서에서 가장 먼저 선언되어야 한다. 
                         선언된 페이지의 html 버전이 무엇인지를 웹 브라우저에 알려주는 역할을 하는 선언문으로, 대소문자를 구분하지 않는다.
 16. `<a> ~ </a>`: anchor의 약자. 하이퍼링크를 정의할 때 사용. href 속성에 링크 목적지를 설정.
-17. 
+17. `<iframe> ~ </iframe>`: lnline frame의 약자. 현재 html문서에 다른 문서를 포함시킬 때 사용. ex) 동영상
+
 
 ## 출처 && 깃허브
 [생활코딩 web/html&internet](https://opentutorials.org/course/3084)
