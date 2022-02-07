@@ -1,5 +1,5 @@
 ## 정리 내용
-### HTML tag 종류
+### HTML 대표적인 tag 종류
 1. `<u> ~ </u>`: underline의 약자, 밑 줄 생성.
 2. `<strong> ~ </strong>`: 글씨 진하게 강조.
 3. `<h1> ~ </h1>`: header의 약자, 제목을 뜻함. 1~6까지 있으며 1이 크기가 제일 크고 6이 크기가 제일 작음.
@@ -34,7 +34,8 @@
                         `<button>, <fieldset>, <input>, <label>, <option>, <optgroup>, <select>, <textarea>` 들을 포함한다.
 22. `<nav> ~ </nav>`: naviagtion의 약자. 다른 페이지 or 현재 페이지의 다른 부분과 연결되는 네비게이션 링크들의 집합을 정의할 때 사용. ex) 메뉴, 목차, 인덱스 등
 23. `<footer> ~ </footer>`: 하나의 문서에 여러 개의 footer 요소가 포함될 수 있다.
-                            아래와 같은 정보를 포함한다. (1.저자 정보, 2.저작권 정보 3.연락처 4.사이트맵 5.연관 페이지 6.페이지 맨 위로 가는 top버튼 등)
+                            아래와 같은 정보를 포함한다. (1.저자 정보, 2.저작권 정보 3.연락처 4.사이트맵 5.연관 페이지 6.페이지 맨 위로 가는 top버튼 )
+24. `<style> ~ </style>`: 문서의 스타일 정보를 정의할 때 사용. 스타일 요소는 CSS를 명시하며, html 문서에는 여러 개의 style 요소를 포함할 수 있다.
 
 ## 출처 && 깃허브
 [생활코딩 web/html&internet](https://opentutorials.org/course/3084)
